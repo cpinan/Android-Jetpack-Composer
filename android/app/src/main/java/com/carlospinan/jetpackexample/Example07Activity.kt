@@ -3,10 +3,7 @@ package com.carlospinan.jetpackexample
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.compose.Composable
-import androidx.ui.core.Dp
-import androidx.ui.core.Modifier
-import androidx.ui.core.dp
-import androidx.ui.core.setContent
+import androidx.ui.core.*
 import androidx.ui.foundation.ColoredRect
 import androidx.ui.foundation.VerticalScroller
 import androidx.ui.graphics.Color
@@ -43,6 +40,11 @@ class Example07Activity : AppCompatActivity() {
                                 color = Color.Black
                             )
                             ExampleColumn()
+                            Column {
+                                listOf("Bobby", "Pedro", "Yani", "Kausha").forEach {
+                                    Text(text = it)
+                                }
+                            }
                         }
                     }
                 }
