@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79cd2a56-5132-46aa-a8a3-a6d515ff64ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../android/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/app/src/main/java/com/carlospinan/jetpackexample/Example04Activity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../android/app/src/main/java/com/carlospinan/jetpackexample/Example04Activity.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
