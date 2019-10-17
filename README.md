@@ -69,3 +69,6 @@ Jetpack Compose is a toolkit to simplify ui design. It's still in dev testing.
 
 Compose is a reactive UI toolkit entirely developed in Kotlin. It's similar to Flutter, Swift UI, Litho and React.
 
+## Extra content in case
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
