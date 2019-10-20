@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79cd2a56-5132-46aa-a8a3-a6d515ff64ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../android/app/src/main/java/com/carlospinan/jetpackexample/Example04Activity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../android/app/src/main/java/com/carlospinan/jetpackexample/Example04Activity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/ui-layout/integration-tests/layout-demos/src/main/java/androidx/ui/layout/demos/ComplexLayoutDemos.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-20">
-              <caret line="410" column="5" lean-forward="true" selection-start-line="410" selection-start-column="5" selection-end-line="410" selection-end-column="5" />
+              <caret line="410" column="5" selection-start-line="410" selection-start-column="5" selection-end-line="410" selection-end-column="5" />
               <folding>
                 <element signature="e#0#615#0" expanded="true" />
               </folding>
@@ -48,12 +48,57 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ui-layout/integration-tests/samples/src/main/java/androidx/ui/layout/samples/SpacingSample.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-972">
+            <state>
               <folding>
                 <element signature="e#0#615#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="79" selection-start-line="7" selection-start-column="79" selection-end-line="7" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ui-android-text/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#617#652#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,6 +113,16 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+        <option value="$PROJECT_DIR$/ui-android-text/build.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="115" />
@@ -93,197 +148,23 @@
             <path>
               <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="gradle" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="gradle" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="wrapper" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="samples" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="ui-android-text" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="ui-layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="ui-layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="integration-tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="ui-layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="integration-tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="layout-demos" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="ui-layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="integration-tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="layout-demos" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="ui-layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="integration-tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="layout-demos" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="ui-layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="integration-tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="layout-demos" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="ui-layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="integration-tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="layout-demos" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="androidx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="ui-layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="integration-tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="layout-demos" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="androidx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="ui" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="ui-layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="integration-tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="layout-demos" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="androidx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="ui" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="ui-layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="integration-tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="layout-demos" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="androidx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="ui" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="demos" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="ui-layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="integration-tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="samples" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="ui-layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="integration-tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="samples" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="ui-layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="integration-tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="samples" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="ui-layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="integration-tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="samples" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="ui-layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="integration-tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="samples" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="androidx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="ui-layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="integration-tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="samples" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="androidx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="ui" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="ui-layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="integration-tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="samples" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="androidx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="ui" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="ui-layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="integration-tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="samples" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="androidx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="ui" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="samples" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="support-refs_heads_androidx-master-dev-ui.tar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/GIT/BOBBY/Android-Jetpack-Composer/support-refs_heads_androidx-master-dev-ui.tar" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="ui-layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -356,7 +237,7 @@
     <entry file="file://$PROJECT_DIR$/ui-layout/integration-tests/layout-demos/src/main/java/androidx/ui/layout/demos/ComplexLayoutDemos.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-20">
-          <caret line="410" column="5" lean-forward="true" selection-start-line="410" selection-start-column="5" selection-end-line="410" selection-end-column="5" />
+          <caret line="410" column="5" selection-start-line="410" selection-start-column="5" selection-end-line="410" selection-end-column="5" />
           <folding>
             <element signature="e#0#615#0" expanded="true" />
           </folding>
@@ -365,9 +246,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ui-layout/integration-tests/samples/src/main/java/androidx/ui/layout/samples/SpacingSample.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-972">
+        <state>
           <folding>
             <element signature="e#0#615#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="79" selection-start-line="7" selection-start-column="79" selection-end-line="7" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui-android-text/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#617#652#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
