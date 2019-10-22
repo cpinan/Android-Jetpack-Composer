@@ -7,6 +7,7 @@ import androidx.compose.state
 import androidx.compose.unaryPlus
 import androidx.ui.core.Dp
 import androidx.ui.core.Text
+import androidx.ui.core.dp
 import androidx.ui.core.setContent
 import androidx.ui.layout.Center
 import androidx.ui.layout.Column
@@ -38,23 +39,29 @@ class Example03Activity : AppCompatActivity() {
 
                         }
 
-                        Button(
-                            "Add Value",
-                            onClick = {
-                                amount.value++
-                            }
-                        )
+                        Padding(16.dp) {
+                            Button(
+                                "Add Value",
+                                onClick = {
+                                    amount.value++
+                                }
+                            )
+                        }
 
-                        Button(
-                            "Reduce Value",
-                            onClick = {
-                                amount.value--
-                            }
-                        )
+                        Padding(16.dp) {
+                            Button(
+                                "Reduce Value",
+                                onClick = {
+                                    amount.value--
+                                }
+                            )
+                        }
 
-                        Text(
-                            "Current value is: ${amount.value}"
-                        )
+                        Padding(16.dp) {
+                            Text(
+                                "Current value is: ${amount.value}"
+                            )
+                        }
 
                     }
                 }
