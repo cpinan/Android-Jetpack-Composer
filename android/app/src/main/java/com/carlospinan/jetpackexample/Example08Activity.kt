@@ -19,7 +19,7 @@ class Example08Activity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             MaterialTheme {
-                BottomDrawer()
+                ModalDrawer()
             }
         }
     }

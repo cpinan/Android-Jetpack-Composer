@@ -46,6 +46,11 @@
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
         </activity>
+        <activity android:name=".Example08Activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
         <activity android:name=".gmail.HomeActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -1,14 +1,15 @@
 package com.carlospinan.jetpackexample
 
 import android.os.Bundle
-import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import androidx.compose.Composable
 import androidx.ui.core.Text
 import androidx.ui.core.setContent
 import androidx.ui.graphics.Color
+import androidx.ui.graphics.imageFromResource
 import androidx.ui.layout.Center
 import androidx.ui.layout.FlexColumn
+import androidx.ui.material.AppBarIcon
 import androidx.ui.material.MaterialColors
 import androidx.ui.material.MaterialTheme
 import androidx.ui.material.TopAppBar
@@ -29,12 +30,32 @@ class Example01Activity : AppCompatActivity() {
             primary = Color.Black
         )
     ) {
+        val contextualActions = listOf(
+            imageFromResource(resources, android.R.drawable.ic_input_add),
+            imageFromResource(resources, android.R.drawable.ic_input_delete)
+        )
+
+        val navigationIcon: @Composable() () -> Unit = {
+            AppBarIcon(
+                imageFromResource(
+                    resources,
+                    android.R.drawable.ic_menu_more
+                )
+            ) { /* doSomething()*/ }
+        }
+
         FlexColumn {
             inflexible {
                 // Item height will be equal content height
-                TopAppBar<MenuItem>( // App Bar with title
-                    title = { Text("Jetpack Compose Sample") }
-                )
+                TopAppBar( // App Bar with title
+                    title = { Text("Jetpack Compose Sample") },
+                    contextualActions = contextualActions,
+                    navigationIcon = navigationIcon
+                ) { actionImage ->
+                    AppBarIcon(actionImage) {
+
+                    }
+                }
             }
             expanded(1F) {
                 // occupy whole empty space in the Column
