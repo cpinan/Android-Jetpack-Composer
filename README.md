@@ -14,7 +14,7 @@ More about:
 
 Jetpack Compose is a toolkit to simplify ui design. It's still in dev testing.
 
-### $version = 0.1.0-dev01
+### $version = 0.1.0-dev02
 
 ## Jetpack Composer
 
