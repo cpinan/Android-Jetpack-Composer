@@ -79,5 +79,11 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ## Slides
 
-  - In Spanish: https://docs.google.com/presentation/d/1O8cM0gZ19IJb5CsP8DjF_sR72775BRVXR6EEBWRQWos/edit#slide=id.g35f391192_00
-  - In English: In Progress
+  - In Spanish: 
+  
+  https://docs.google.com/presentation/d/1O8cM0gZ19IJb5CsP8DjF_sR72775BRVXR6EEBWRQWos/edit#slide=id.g35f391192_00
+  
+ 
+  - In English: 
+  
+  https://docs.google.com/presentation/d/1RLm9JnoV1VsVvsOG-CYOUvxmWFlIZfdzfjNQuaL8bRA/edit#slide=id.g35f391192_00
