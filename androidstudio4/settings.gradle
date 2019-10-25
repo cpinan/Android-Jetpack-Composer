@@ -1,0 +1,2 @@
+rootProject.name='AndroidStudio4Composable'
+include ':app'
