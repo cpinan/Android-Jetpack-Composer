@@ -11,12 +11,14 @@ import androidx.ui.layout.*
 import androidx.ui.material.surface.Card
 import androidx.ui.material.themeTextStyle
 import androidx.ui.res.imageResource
+import androidx.ui.tooling.preview.Preview
 import com.carlospinan.devfestlima2019.data.authors
 import com.carlospinan.devfestlima2019.model.Author
 
 /**
  * @author Carlos Piñan
  */
+@Preview(name = "Authors Screen")
 @Composable
 fun AuthorsScreen() {
     VerticalScroller {

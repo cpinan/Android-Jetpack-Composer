@@ -4,11 +4,13 @@ import androidx.compose.Composable
 import androidx.compose.state
 import androidx.compose.unaryPlus
 import androidx.ui.animation.Crossfade
+import androidx.ui.core.Text
 import androidx.ui.layout.FlexColumn
 import androidx.ui.material.MaterialTheme
 import androidx.ui.material.TabRow
 import androidx.ui.material.surface.Surface
 import androidx.ui.material.themeColor
+import androidx.ui.tooling.preview.Preview
 import com.carlospinan.devfestlima2019.data.tabs
 import com.carlospinan.devfestlima2019.screens.AuthorsScreen
 import com.carlospinan.devfestlima2019.screens.HomeScreen
@@ -57,4 +59,10 @@ private fun AppContent() {
             }
         }
     }
+}
+
+@Preview(name = "Preview Test")
+@Composable
+fun previewTest() {
+    Text(text = "Preview Test")
 }
